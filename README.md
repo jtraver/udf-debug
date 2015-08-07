@@ -31,6 +31,6 @@ local function filter_record(rec, filterFuncStr, filterFunc)
   return true
 end
 ```
-## Conclustion
+## Conclusion
 This is a work in progress, and I will produce more routines over time
 
